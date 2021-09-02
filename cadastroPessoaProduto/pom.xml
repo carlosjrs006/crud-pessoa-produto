@@ -12,7 +12,7 @@
 	<artifactId>cadastroPessoaProduto</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>cadastroPessoaProduto</name>
-	<description>Crud de pessoas e produto</description>
+	<description>Crud de pessoas e produto.</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
