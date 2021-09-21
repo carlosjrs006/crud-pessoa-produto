@@ -1,14 +1,23 @@
 package com.crud.model.entity;
 
+import lombok.*;
+
 import javax.persistence.*;
 import java.util.Date;
 
-@Entity//copia do banco de dados
+@Entity// copia do banco de dados
+@Data //anotacoes para poder buascar as informacoes aqui dentro.
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
+
 public class Pessoa {
-    @Id
-    @GeneratedValue(strategy = GenerationType.IDENTITY)
+    @Id // falando para o banco de dados que vai ser o id.
+    @GeneratedValue(strategy = GenerationType.IDENTITY)// vai ser gerado automaticamente o id.
     private int id;
 
+    //column indica que vai ser uma coluna no banco de dados.
     @Column(nullable = false, length = 150)
     private String nome;
 
@@ -20,8 +29,6 @@ public class Pessoa {
 
     @Column
     private String endereco;
-
-
 
 
 }

@@ -1,8 +1,15 @@
 package com.crud.model.entity;
 
+import lombok.*;
+
 import javax.persistence.*;
 
-@Entity
+@Entity// copia do banco de dados
+@Data
+@Getter
+@Setter
+@NoArgsConstructor
+@AllArgsConstructor
 public class Produto {
 
     @Id

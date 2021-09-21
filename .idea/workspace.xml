@@ -1,13 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="adb8e177-88bb-44ee-bd77-4926a5e9c572" name="Changes" comment="" />
+    <list default="true" id="adb8e177-88bb-44ee-bd77-4926a5e9c572" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/cadastroPessoaProduto/src/main/java/com/crud/controller/PessoaController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastroPessoaProduto/src/main/java/com/crud/controller/PessoaController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastroPessoaProduto/src/main/java/com/crud/controller/ProdutoController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastroPessoaProduto/src/main/java/com/crud/controller/ProdutoController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastroPessoaProduto/src/main/java/com/crud/model/entity/Pessoa.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastroPessoaProduto/src/main/java/com/crud/model/entity/Pessoa.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastroPessoaProduto/src/main/java/com/crud/model/entity/Produto.java" beforeDir="false" afterPath="$PROJECT_DIR$/cadastroPessoaProduto/src/main/java/com/crud/model/entity/Produto.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cadastroPessoaProduto/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/cadastroPessoaProduto/src/main/resources/application.properties" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1xVwQ20MOSDtlqTjsyns3WucX1x" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -15,7 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cadastroPessoaProduto" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
